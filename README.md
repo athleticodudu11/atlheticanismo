@@ -1,6 +1,6 @@
 <h1> Futebol 24 Horas</h1>
 <p> ola essa loja e aberta<strong> 24 horas por dia</strong>, trabalhamos com diversos tipos de camisas, temos camisa de times brasileiros e europeus tudo com o melhor preço. temos nossa loja fisica em piraquara no bairo de vila fuck,na rua graciosa laurindo ribeiro no numero 533. venha adquirir a sua </p>
-<p>Camisa Time Itália Seleção Versace 22/23 - Torcedor Masculina - Azul R$ 219,99 </p>
+<p><em>Camisa Time Itália Seleção Versace 22/23 - Torcedor Masculina - Azul R$ 219,99 </em></p>
 <p>Camisa Time Manchester City ii Temp. 20/21 Masculino R$ 249,00</p>
 <p>Camisa Time Borussia Dortmund Amarela Temp. 20/21 Masculino R$ 259,00</p>
 <p>Camisa Time Napoli I Temp. 21/22 Torcedor Masculina R$ 259,00.</p>
