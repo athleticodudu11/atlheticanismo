@@ -6,4 +6,16 @@ numérico 0123456789
 
 hexadecimal 0123456789ABCDEF
 
-RGB =
+RGB = red green blue
+
+#_ _ _ _ _ _
+
+0 = ausẽncia
+
+f = máximo
+
+#000000
+
+#ffffff
+
+#ff0000
